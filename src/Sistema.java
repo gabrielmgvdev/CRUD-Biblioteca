@@ -11,6 +11,6 @@ public class Sistema {
         Livro livro9 = new Livro("Mago Mestre", "Raymond E. Feist", 1982, "Doubleday", 512, "Fantasia", "Inglês", "Preta");
         Livro livro10 = new Livro("O Último Desejo", "Andrzej Sapkowski", 1993, "SuperNOWA", 288, "Fantasia", "Polonês", "Preta");
 
-        livro1.ler();
+        livro1.imprimir();
     }
 }
